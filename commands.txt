@@ -1,0 +1,4 @@
+npm install validator
+
+package.json ve package-lock.json dan okuyarak bağımlılıkları tekrar yükler.
+npm install
