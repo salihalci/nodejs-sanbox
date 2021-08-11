@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/salihalci/nodejs-sandbox#readme",
   "dependencies": {
-    "validator": "^13.6.0"
+    "image-thumbnail": "^1.0.13",
+    "validator": "^13.6.0",
+    "chalk": "4.1.2"
+    
   }
 }
