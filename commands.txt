@@ -2,3 +2,7 @@ npm install validator
 
 package.json ve package-lock.json dan okuyarak bağımlılıkları tekrar yükler.
 npm install
+
+
+GLOBAL module install
+npm install nodemon@2.0.12 -g

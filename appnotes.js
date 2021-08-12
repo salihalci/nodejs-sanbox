@@ -1,12 +1,11 @@
-var validator = require('validator')
 
+const chalk = require("chalk");
 const myFunc = require("./notes")
 
-val1 = myFunc()
+const errorMSg =chalk.bold.inverse.red("Error")
 
-console.log(val1)
+console.log(errorMSg)
+const successMsg = chalk.bold.inverse.green('Success!')
+console.log(successMsg)
 
 
-console.log(validator.isEmail('s@gmail.com')) 
-
-console.log(validator.isURL('https://io.com'))
