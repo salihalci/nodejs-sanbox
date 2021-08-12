@@ -7,3 +7,11 @@ npm install
 GLOBAL module install
 Do not need to restart app at the every code change. It will restart automatically.
 npm install nodemon@2.0.12 -g
+
+
+
+Git commands for daily usage 
+---------------------------
+git add .
+git commit -m "Sample desc"
+git push origin main
