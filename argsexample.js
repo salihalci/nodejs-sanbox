@@ -8,6 +8,7 @@ console.log(process.argv[2])
 console.log("If else is starting.")
 const command = process.argv[2]
 
+
 if(command==='Execute'){
     console.log("Executed")
 }else{

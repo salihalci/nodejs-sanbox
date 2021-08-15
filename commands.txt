@@ -15,3 +15,9 @@ Git commands for daily usage
 git add .
 git commit -m "Sample desc"
 git push origin main
+
+
+Used modules
+validator - email iban etc validator
+nodemon - restart rerun automatically
+chalks -- renki loglar için
